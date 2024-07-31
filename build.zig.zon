@@ -1,0 +1,12 @@
+.{
+    .name = "Project",
+    .version = "0.0.1",
+    .dependencies = .{
+        .@"raylib-zig" = .{
+            .url = "https://github.com/Not-Nik/raylib-zig/archive/zig-0.12.tar.gz",
+            .hash = "12201895450c4309071f03d32a3f4bf012de2fe9f06baa9f6949dc6bb9f3850c5a7f",
+        },
+    },
+    .paths = .{""},
+}
+
